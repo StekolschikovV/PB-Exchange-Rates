@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "PB Exchange Rates",
+    "icon": "./ic_launcher.png",
+    "version": "1.0.0",
+    "sdkVersion": "21.0.0",
+    "android": {
+      "package": "com.stekolschikov.pbExchangeRates"
+    },
+    "loading": {
+      "icon":"./ic_launcher.png"
+    }
+   }
+}
